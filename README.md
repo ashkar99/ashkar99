@@ -1,4 +1,7 @@
-## Hi there 👋
+
+
+<h2 align="left">Hi there 👋! My name is Sadek Alashkar and I'm a software engineering student from Sweden </h2>
+
 
 <!--
 **ashkar99/ashkar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
