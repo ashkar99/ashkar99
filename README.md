@@ -11,6 +11,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ashkar99/ashkar99/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **ashkar99/ashkar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
