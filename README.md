@@ -14,7 +14,11 @@
 
 
 ### 
-![snake gif](https://github.com/ashkar99/ashkar99/blob/output/github-contribution-grid-snake.gif)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <!--
