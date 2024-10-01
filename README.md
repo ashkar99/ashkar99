@@ -12,10 +12,9 @@
   <img src="https://streak-stats.demolab.com?user=ashkar99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
 ### 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/ashkar99/ashkar99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!--<br clear="both">   Uncomment in 1 oct 2025 
+<img src="https://raw.githubusercontent.com/ashkar99/ashkar99/output/github-contribution-grid-snake.svg" alt="Snake animation" />-->
 
 
 <!--
