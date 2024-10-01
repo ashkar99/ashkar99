@@ -14,8 +14,9 @@
 
 
 ### 
-![snake gif](https://github.com/ashkar99/ashkar99/output/github-contribution-grid-snake.gif)
-###
+<br clear="both">
+<img src="https://raw.githubusercontent.com/ashkar99/ashkar99/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 <!--
 **ashkar99/ashkar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
