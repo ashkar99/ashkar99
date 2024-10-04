@@ -3,6 +3,14 @@
 <h2 align="left">Hi there👋! My name is Sadek Alashkar and I'm a software engineering student from Sweden </h2>
 
 ###
+<!-- Links -->
+<div align="left">
+  <a href="https://www.linkedin.com/in/sadek-a-468603314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
+###
 <!-- GitHub Stats and Top language -->
 
 <div align="center">
