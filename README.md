@@ -1,14 +1,16 @@
 
 
 <h3 align="left">Hi there👋! My name is Sadek Alashkar and I'm a software engineering student from Sweden </h3>
+<h2></h2>
 
 ###
 <!-- Links -->
 <div align="left">
   <a href="https://www.linkedin.com/in/sadek-a-468603314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2A5298&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a> <a href="https://soundcloud.com/sadek-ashkar?ref=clipboard&p=a&c=1&si=1d8d6c7f94434575993fcd186a325a5a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=SoundCloud&logo=soundcloud&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="soundcloud logo" /></a>
 </div>
+<h2></h2>
 
 ###
 <!-- GitHub Stats and most used language -->
@@ -41,6 +43,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ashkar99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<h2></h2>
 
 ###
 <!-- Owned Trophies 🏆 -->
