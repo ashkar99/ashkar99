@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi there👋! My name is Sadek Alashkar and I'm a software engineering student from Sweden </h2>
+<h3 align="left">Hi there👋! My name is Sadek Alashkar and I'm a software engineering student from Sweden </h3>
 
 ###
 <!-- Links -->
@@ -11,7 +11,7 @@
 </div>
 
 ###
-<!-- GitHub Stats and Top language -->
+<!-- GitHub Stats and most used language -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashkar99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -41,6 +41,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ashkar99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+<!-- Owned Trophies 🏆 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashkar99&theme=monokai)](https://github.com/ashkar99/github-profile-trophy)
 
 ### 
 <!--<br clear="both">   Uncomment in 1 oct 2025 
