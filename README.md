@@ -47,7 +47,7 @@
 <h2></h2>
 
 ###
-<!-- Owned Trophies 🏆 -->
+<!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashkar99&theme=monokai)](https://github.com/ashkar99/github-profile-trophy)
 
 ### 
