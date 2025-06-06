@@ -51,8 +51,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashkar99&theme=monokai)](https://github.com/ashkar99/github-profile-trophy)
 
 ### 
-<!--<br clear="both">   Uncomment in 1 oct 2025 
-<img src="https://raw.githubusercontent.com/ashkar99/ashkar99/output/github-contribution-grid-snake.svg" alt="Snake animation" />-->
+<br clear="both"> 
+<img src="https://raw.githubusercontent.com/ashkar99/ashkar99/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
 
 
 <!--
