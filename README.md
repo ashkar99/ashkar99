@@ -51,7 +51,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashkar99&theme=monokai)](https://github.com/ashkar99/github-profile-trophy)
 
 ### 
-<br clear="both"> 
+<br clear="both">
 <img src="https://raw.githubusercontent.com/ashkar99/ashkar99/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
 
 
