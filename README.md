@@ -1,6 +1,6 @@
 
 
-<h3 align="left">Hi there👋! My name is Sadek Alashkar and I'm a software engineering student from Sweden </h3>
+<h3 align="left">Hi there👋! My name is Sadek Alashkar and I'm a software engineer from Sweden </h3>
 <h2></h2>
 
 ###
